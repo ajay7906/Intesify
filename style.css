@@ -1,0 +1,192 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Josefin+Sans:ital,wght@1,500&family=Roboto+Slab:wght@600&display=swap');
+        body{
+            margin: 0;
+            padding: 0;
+        }
+        .nav{
+            width: 100%;
+            height: 70px;
+            
+        }
+        .menu{
+            float: left;
+            width: 33%;
+            
+        }
+        .fa {
+         color: gray;
+         font-size: 25px;
+         margin-left: 20px;
+         margin-top: 20px;
+         
+         
+        }
+        .menu h1{
+            font-family: 'Dancing Script', cursive;
+            color: coral;
+            margin-left: 180px;
+        }
+        .menu button{
+            float: right;
+            margin-right: 20px;
+            margin-top: 25px;
+            color: gray;
+           width: 80px;
+           
+        }
+        .banner{
+           background-image: url("image/banner.jpg");
+           width: 1365px;
+           height: 410px;
+           float: left;
+        }
+        .middle{
+            text-align: center;
+           margin-top: 130px;
+        }
+        .middle h1{
+            color: #1589FF;
+        }
+        .middle p{
+            width: 480px;
+            margin-left: 440px;
+            line-height: 25px;
+            position: relative;
+            top: -20px;
+            color: gray;
+
+        }
+        .middle button{
+            background-color: coral;
+            padding: 10px 25px 10px 25px;
+            border: none;
+            position: relative;
+            top: -8px;
+            border-radius: 5px;
+        }
+        .third-box{
+            margin-left: 285px;
+            position: relative;
+            top: 50px;
+        }
+        .third-box-1{
+            float: left;
+            width: 250px;
+        }
+        .image{
+            float: left;
+            margin-left: 35px;
+            
+        }
+        .image img{
+            width: 235px;
+            border-radius: 100%;
+        }
+        .third-box-1 p{
+            text-align: right;
+            color: gray;
+        }
+        .third-box-1 h3{
+            text-align: right;
+            color:#1589FF ;
+        }
+        .third-box-2{
+            width: 250px;
+            float: left;
+            margin-left: 35px;
+        }
+        .third-box-2 p{
+            color: gray;
+        }
+        .third-box-2 h3{
+            color: #1589FF;
+        }
+        .fourth-box{
+            width: 100%;
+            float: left;
+            background-color: indianred;
+            margin-top: 120px;
+        }
+        .middle-box-4{
+            text-align: center;
+            color: white;
+            padding-top: 80px;
+            padding-bottom: 80px;
+        }
+        .middle-box-4 p{
+            width: 580px;
+            margin-left: 385px;
+            position: relative;
+            top: -10px;
+        }
+        .fifth{
+            float: left;
+            margin-top: 40px;
+        }
+        .middle-box-4 h2{
+            margin-bottom: 45px;
+        }
+        .fifth-image-1{
+            float: left;
+            margin-left: 40px;
+            border: 1px solid silver;
+            height: 300px;
+            
+            
+            
+        }
+        .middle-box-5{
+            text-align: center;
+            margin-left: 258px;
+        }
+        .fifth-image-1 img{
+            width: 230px;
+        }
+        .fifth-image-1 p{
+            width: 160px;
+            color: gray;
+            text-align: right;
+            
+        }
+        .fifth-image-1 h3{
+            color: #1589FF;
+        }
+        .footer{
+            float: left;
+            background-color: #1589FF;
+            width: 100%;
+            height: 380px;
+            margin-top: 100px;
+        }
+        .get_in_touch{
+            text-align: center;
+            color: white;
+            margin-top: 120px;
+            
+        }
+        .calling{
+            margin-left: 265px;
+        }
+        .calling span{
+            float: left;
+            margin-left: 60px;
+            position: relative;
+            top: -3px;
+            right: 4px;
+            color: white;
+        }
+        .calling p{
+            float: left;
+            color: white;
+        }
+        .last{
+            clear: both;
+            margin-left: 500px;
+            color: white;
+            width: 350px;
+            border-top: 1px solid gray;
+            margin-top: 100px;
+        }
+        .last h5{
+            text-align: center;
+        }
